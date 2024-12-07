@@ -26,9 +26,9 @@
 21. [Two Sum](https://leetcode.com/problems/two-sum/)D
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)D
 23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)D
-24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-26. [Plus One](https://leetcode.com/problems/plus-one/)
+24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)D
+25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)D
+26. [Plus One](https://leetcode.com/problems/plus-one/)D
 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
