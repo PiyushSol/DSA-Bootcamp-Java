@@ -12,7 +12,7 @@
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/)D
 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)D
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)D
-- [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
+- [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)D
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)D
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
