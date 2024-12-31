@@ -22,8 +22,8 @@
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)D
 - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)D
 - [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)D
-- [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- [Binary Search](https://leetcode.com/problems/binary-search/)
+- [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)D
+- [Binary Search](https://leetcode.com/problems/binary-search/)D
 
 ## Medium
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
