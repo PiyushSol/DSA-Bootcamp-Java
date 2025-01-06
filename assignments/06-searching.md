@@ -32,7 +32,7 @@
 - [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)D
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)D
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)D
-- [Find Right Interval](https://leetcode.com/problems/find-right-interval/)DR
+- [Find Right Interval](https://leetcode.com/problems/find-right-interval/)D
 - [Reach a Number](https://leetcode.com/problems/reach-a-number/)D
 - [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)D
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)D
@@ -41,8 +41,8 @@
 - [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)D
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)D
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)D
-- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
-- [4 Sum](https://leetcode.com/problems/4sum/)
+- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)D
+- [4 Sum](https://leetcode.com/problems/4sum/)D
 
 ## Hard
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
