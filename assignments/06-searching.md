@@ -51,5 +51,5 @@
 - [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)D
 - [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)D
 - [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)D
-- [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+- [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)D
 - [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
