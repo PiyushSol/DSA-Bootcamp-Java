@@ -47,9 +47,9 @@
 ## Hard
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)D
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)D
-- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
+- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)D
 - [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
-- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)D
 - [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)D
 - [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
