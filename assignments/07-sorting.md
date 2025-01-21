@@ -18,9 +18,9 @@
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)D
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)D
 - [Array Partition I](https://leetcode.com/problems/array-partition-i/)D
-- [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
-- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
-- [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+- [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)D
+- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)D
+- [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)D
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
