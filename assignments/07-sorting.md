@@ -25,9 +25,9 @@
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)D
 - [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)D
 - [Height Checker](https://leetcode.com/problems/height-checker/)D
-- [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
-- [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
-- [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)
+- [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)D
+- [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)D
+- [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)D
 - [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 - [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 - [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
