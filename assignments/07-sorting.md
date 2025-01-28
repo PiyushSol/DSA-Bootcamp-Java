@@ -42,7 +42,7 @@
 
 ## Medium
 - [3Sum](https://leetcode.com/problems/3sum/)D
-- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)D
 - [4Sum](https://leetcode.com/problems/4sum/)D
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
