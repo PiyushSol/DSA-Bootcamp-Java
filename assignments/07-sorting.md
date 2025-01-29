@@ -49,8 +49,8 @@
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)D
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)D
 - [Sort List](https://leetcode.com/problems/sort-list/)D
-- [Largest Number](https://leetcode.com/problems/largest-number/)
-- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [Largest Number](https://leetcode.com/problems/largest-number/)D
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)D
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)D
 - [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)D
 
