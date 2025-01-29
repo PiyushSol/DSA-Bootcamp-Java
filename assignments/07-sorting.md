@@ -44,8 +44,8 @@
 - [3Sum](https://leetcode.com/problems/3sum/)D
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)D
 - [4Sum](https://leetcode.com/problems/4sum/)D
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)D
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)D
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)D
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
