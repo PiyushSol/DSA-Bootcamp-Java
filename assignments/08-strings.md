@@ -38,8 +38,8 @@
 - [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)D
 - [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)D
 - [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)D
-- [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)
-- [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
+- [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)D
+- [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)D
 - [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
 - [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
