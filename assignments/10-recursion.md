@@ -16,22 +16,22 @@
 - [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`D
 - [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`D
 - [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`D
-- [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
-- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
-- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
-- [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
-- [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
-- [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
-- [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
+- [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`D
+- [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`D
+- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`D
+- [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`D
+- [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`D
+- [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`D
+- [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`D
 - Write a recursive function for given n and a to determine x:
 ```java
       n = a ^ x 
       a = 2, 3, 4
       (2 ^ -31) <= n <= (2 ^ 31) - 1      
 ```
-- [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
-- [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
-- [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
+- [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`D
+- [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`D
+- [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`D
 - [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
 - [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
 - [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
