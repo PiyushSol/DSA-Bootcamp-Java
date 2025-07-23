@@ -42,7 +42,7 @@
 - [Word Search](https://leetcode.com/problems/word-search/) `leetcode`D
 - [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`D
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`D
-- [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
+- [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`D
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
 - [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
