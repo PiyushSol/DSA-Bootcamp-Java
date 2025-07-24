@@ -43,11 +43,11 @@
 - [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`D
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`D
 - [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`D
-- [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
-- [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
-- [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
-- [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
-- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
+- [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`D
+- [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`D
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`D
+- [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`D
+- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`D
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
 - [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
 - [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
